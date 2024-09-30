@@ -1,5 +1,8 @@
 # Next.js Frontend for File Share with End-to-End Encryption
 
+[![Watch the video](https://img.youtube.com/vi/t5w2dauFmhM/maxresdefault.jpg)](https://youtu.be/t5w2dauFmhM)
+
+
 This is the frontend for the file sharing project, built using Next.js, with authentication handled by Auth.js and the UI components provided by ShadCN.
 
 ## Table of Contents
